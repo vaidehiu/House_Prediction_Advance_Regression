@@ -1,4 +1,4 @@
-# Project Name
+# House Price Prediction using advance regression algorithms
 > A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. 
 > This is Business stragegy of real estate core in general.
 
@@ -42,15 +42,11 @@
 - Ridge
     - r2 of train 0.9378379406798446
     - r2 test  0.914664719097858
-    - Adjusted r2 of test 0.7984242283554807
-    - Adjusted r2 of train 0.9174410149654186
     - The MSE of the model on the train dataset for optimum alpha is 0.062162059320155366
     - The MSE of the model on the test dataset for optimum alpha is 0.08533528090214204</b>
 - Lasso
      - r2 of train 0.9328993288182069
      - r2 test  0.9154027790933243
-     - Adjusted r2 of test 0.800167645750177
-     - Adjusted r2 of train 0.9108819210866811
      - The MSE of the model on the train dataset for optimum alpha is 0.06710067118179312
      - The MSE of the model on the test dataset for optimum alpha is 0.08459722090667571</b>
  
