@@ -39,16 +39,9 @@
 - Ridge and Lasso are good.
 - Lasso is better slighly performs better on getting mean squared error less.
 - Behavior of Lasso and Ridge on alpha and neg_mean_square_error
-- Ridge
-    - r2 of train 0.9378379406798446
-    - r2 test  0.914664719097858
-    - The MSE of the model on the train dataset for optimum alpha is 0.062162059320155366
-    - The MSE of the model on the test dataset for optimum alpha is 0.08533528090214204</b>
-- Lasso
-     - r2 of train 0.9328993288182069
-     - r2 test  0.9154027790933243
-     - The MSE of the model on the train dataset for optimum alpha is 0.06710067118179312
-     - The MSE of the model on the test dataset for optimum alpha is 0.08459722090667571</b>
+- Metrics
+ ![Metrics](https://github.com/vaidehiu/House_Prediction_Advance_Regression/blob/main/Metrics.PNG)
+
  
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
